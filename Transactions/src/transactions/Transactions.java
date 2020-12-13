@@ -1,5 +1,4 @@
-//Basis Data Berorientasi Objek kelas A
-//123180126
+//Basis Data Berorientasi Objek
 //Nada Salsabila Imari
 
 package transactions;
